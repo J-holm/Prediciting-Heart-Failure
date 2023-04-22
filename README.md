@@ -1,2 +1,3 @@
+Heart failure is a critical public health issue, affecting millions of people worldwide and imposing a significant burden on healthcare systems. Early detection and intervention can improve patient outcomes and reduce the overall cost of care. This project employs a supervised machine learning model to predict heart failure, leveraging state-of-the-art algorithms to create a powerful diagnostic tool.
 
-Prediciting-Heart-Failure. Project 5 at Nod Bootcamp. Data Source: https://www.kaggle.com/fedesoriano/heart-failure-prediction
+By analyzing various clinical, demographic, and lifestyle factors, our model will generate predictions that can inform treatment decisions and enable personalized care. Through rigorous evaluation and validation, we strive to ensure that our predictive model can be readily integrated into clinical workflows and contribute to improved patient outcomes.
